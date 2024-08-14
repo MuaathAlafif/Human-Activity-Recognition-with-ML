@@ -3,6 +3,7 @@ Introduction:
 Human Activity Recognition (HAR) is a significant area of study in data science that focuses on classifying human movements through data collected from wearable sensors. This technology has broad applications, including healthcare, sports, and security, where accurately recognizing human activities can lead to better outcomes.
 
 Objective:
+
 The primary goal of this project is to develop a machine learning model capable of accurately classifying human activities based on sensor data. By leveraging various machine learning techniques, the project aims to enhance the accuracy and reliability of HAR systems.
 
 Steps:
@@ -30,9 +31,11 @@ Steps:
    - Deploy the trained model into a real-world scenario or integrate it into an application for practical use, such as a mobile app for fitness tracking.
 
 Requirements:
+
 - Software: Python (Anaconda), Jupyter Notebook.
 - Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, and pandas-profiling.
 - Hardware: A machine with sufficient computational power, preferably with GPU support for faster training.
 
 Conclusion:
+
 This project illustrates the potential of machine learning in enhancing Human Activity Recognition systems. By following a systematic approach to data preprocessing, model building, and evaluation, the project demonstrates how accurate classification models can be developed, paving the way for more advanced and practical HAR applications in various fields.
