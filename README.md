@@ -1,4 +1,5 @@
 Introduction:
+
 Human Activity Recognition (HAR) is a significant area of study in data science that focuses on classifying human movements through data collected from wearable sensors. This technology has broad applications, including healthcare, sports, and security, where accurately recognizing human activities can lead to better outcomes.
 
 Objective:
